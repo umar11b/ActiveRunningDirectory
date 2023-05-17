@@ -1,2 +1,2 @@
-# ActiveRunningDirectory
-A Powershell based project about setting up a mini corporate network with an active userbase and account creation.
+- <b>💻 Mini-Corporate Working Directory with Active Userbase (Powershell)</b>
+  - [Project Demonstration](youtube.com)
